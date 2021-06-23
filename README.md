@@ -1,5 +1,6 @@
 # Headless chrome exploit demo 
 
+[my blog Chrome-headless-exploit](https://o0xmuhe.github.io/2021/05/26/Chrome-headless-exploit/)
 
 **Exploit for FUN!**
 
